@@ -1,0 +1,2 @@
+#!/bin/bash
+ssh -i ~/royalty/projectpint0.pem ec2-user@54.201.16.202
